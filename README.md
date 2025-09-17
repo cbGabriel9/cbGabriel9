@@ -40,4 +40,8 @@
   </p>
 </div>
 
+<br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cbGabriel9/cbGabriel9/output/snake.svg" alt="Snake animation" />
+</div>
