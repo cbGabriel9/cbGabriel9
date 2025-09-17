@@ -8,6 +8,14 @@
   <em>As a Computer Science student, I am actively looking for opportunities to grow and learn in the dynamic field of software development.</em>
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/maikelen-pasquali-497745382/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<br>
+
 - 🌱 I’m currently learning PHP and C# on the graduation
 - 📫 How to reach me: Email: g.ceronbianchi@gmail.com
 
