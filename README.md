@@ -19,12 +19,10 @@
 <br>
 
 <p align="center">
-  <img 
-      align="center" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbGabriel9&theme=tokyonight&layout=compact&custom_title=Techonologies&langs_count=9" 
-    />
+  <img
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cbGabriel9&layout=compact&theme=tokyonight&langs_count=8"
+  />
 </p>
 
 ## ⚙️ Languages and Technologies
